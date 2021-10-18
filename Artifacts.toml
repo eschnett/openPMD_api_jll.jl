@@ -1,0 +1,78 @@
+[[openPMD_api]]
+arch = "aarch64"
+git-tree-sha1 = "7c44a9e1f1a1c99ac10d9a65cc01f73554bcb0c8"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "998234dcbf50dd321ba0aea17d89bd8d75859ce5419c2890243332023ce0fc60"
+    url = "https://github.com/eschnett/openPMD_api_jll.jl/releases/download/openPMD_api-v0.14.2+1/openPMD_api.v0.14.2.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[openPMD_api]]
+arch = "aarch64"
+git-tree-sha1 = "35bb8927aad4cff26d573234f575a2bc89c3f384"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "8503cd20dc0794347a8b1b3e83d4546670538ec3054813e7d6fc0b6ce4db67ff"
+    url = "https://github.com/eschnett/openPMD_api_jll.jl/releases/download/openPMD_api-v0.14.2+1/openPMD_api.v0.14.2.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[openPMD_api]]
+arch = "powerpc64le"
+git-tree-sha1 = "5b7391d36d6029afabe67c123d02cde3a0a9efc7"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "f2786863517830cbcda46aa564598e7f47389e7f96115b251018ee642169aeaa"
+    url = "https://github.com/eschnett/openPMD_api_jll.jl/releases/download/openPMD_api-v0.14.2+1/openPMD_api.v0.14.2.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[openPMD_api]]
+arch = "powerpc64le"
+git-tree-sha1 = "b8176a73784795bf7b380291be40f0ae47010f70"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "c2f0d78023aa0ef05deef0a3ae44bd9f88ea573e1f1f157e61b985792e27d7f4"
+    url = "https://github.com/eschnett/openPMD_api_jll.jl/releases/download/openPMD_api-v0.14.2+1/openPMD_api.v0.14.2.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[openPMD_api]]
+arch = "x86_64"
+git-tree-sha1 = "abe493f6d4dfb1202a34e2855ceb44c1813fa24f"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[openPMD_api.download]]
+    sha256 = "3695b4ee3a852642217fd2557e84f53d65036bbd9270b25d6979453e3082f83a"
+    url = "https://github.com/eschnett/openPMD_api_jll.jl/releases/download/openPMD_api-v0.14.2+1/openPMD_api.v0.14.2.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[openPMD_api]]
+arch = "x86_64"
+git-tree-sha1 = "3a47af8d7b38a7cdd001928bcd43e923d3a73dfc"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[openPMD_api.download]]
+    sha256 = "39239dbfd8dc15061a70947504365cd2c9c5db19013ba65b69137e530c3dc42d"
+    url = "https://github.com/eschnett/openPMD_api_jll.jl/releases/download/openPMD_api-v0.14.2+1/openPMD_api.v0.14.2.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[openPMD_api]]
+arch = "x86_64"
+git-tree-sha1 = "20e7b4e9c482a6b57fc0f95185dda84f706a9fc1"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "3f5f2f1ce1f41e357283f94ac00da92e26cdca73c24412bab4a6ab91dba75547"
+    url = "https://github.com/eschnett/openPMD_api_jll.jl/releases/download/openPMD_api-v0.14.2+1/openPMD_api.v0.14.2.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[openPMD_api]]
+arch = "x86_64"
+git-tree-sha1 = "dc0c88422d4dfc6fac23aada1497a458c363d40a"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "162c2e4467ff0874651c2ee8433056d4a811e7e55704b862c952d0e18fe14ec4"
+    url = "https://github.com/eschnett/openPMD_api_jll.jl/releases/download/openPMD_api-v0.14.2+1/openPMD_api.v0.14.2.x86_64-linux-gnu-libgfortran5.tar.gz"
